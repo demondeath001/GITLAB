@@ -34,5 +34,6 @@ void main()
       scanf("%d", &SearchID);
   }
   printf("Bye Bye\n");
-  printf("HelloWorld");
+  printf("HelloWorld1");
+  printf("HelloWorld3");
 }
